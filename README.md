@@ -1,5 +1,7 @@
 # Tabs Project
 
+Project page: https://roadmap.sh/projects/simple-tabs
+
 A simple HTML/CSS/JavaScript demo that switches between tab contents when you click the tab buttons.
 
 ## Features
